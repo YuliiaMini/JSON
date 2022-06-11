@@ -1,8 +1,8 @@
 {
 "ID": 616750
 "Summary": "The feedback form is not opened after clicking the 'Обратная связь' button",
-"Project": "https://multiplex.ua/"
-"Reproducibility": "Always"
+"Project": "https://multiplex.ua/",
+"Reproducibility": "Always",
 "Workaround": null,
 "Priority": "Low",
 "Severity": "Minor",
